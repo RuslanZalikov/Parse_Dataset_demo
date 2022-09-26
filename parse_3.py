@@ -43,4 +43,4 @@ with open(f'{path}ruszal_train.ltr', 'w') as ltrfile:            #ltr
         value[1] = value[1].replace("—", "")
         print(value[1], file=ltrfile)
 
-print("Hello World")
+print("Bye bye")
